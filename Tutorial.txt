@@ -1,0 +1,12 @@
+Primeiro ->
+
+ - criar um arquivo xxx.html
+ - ao criar inserir !"tab"
+ - Abrirá um corpo html com <head> <body>
+ - No body com <h1> pode ser inserido cabeçalhos no corpo do texto.
+
+ - para abrir local para programar em javascript digitar <script>, pode ser criado um
+   arquivo javascript com o mesmo nome do html só que com o nome "xxx.js". Porém primeiro deve referentciar dentro do arquivo html
+   na parte de <script src="xxx.js"> </script>
+
+Pronto está liberado para programar em Javascript no arquivo xxx.js
